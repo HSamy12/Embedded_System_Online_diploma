@@ -1,0 +1,17 @@
+20000004 B _E_bss
+20000004 D _E_DATA
+08000190 T _E_text
+20000004 B _S_bss
+20000000 D _S_DATA
+080000d0 W Bus_fault_Handler
+0800018c T const_variables
+080000d0 T Default_Handler
+20000000 D g_variables
+080000d0 W H_fault_Handler
+0800001c T main
+080000d0 W MM_fault_Handler
+080000d0 W NMI_Handler
+080000dc T Reset_Handler
+20001004 B SP_top
+080000d0 W Usage_fault_Handler
+08000000 T vectors
