@@ -1,0 +1,4 @@
+080000f8 t _reset
+08000100 D data
+08000044 T main
+080000fe t vector_handler
