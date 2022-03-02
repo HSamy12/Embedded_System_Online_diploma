@@ -1,0 +1,34 @@
+
+Final_Project1.elf:
+20000008 B _E_bss
+20000004 D _E_DATA
+08000394 T _E_text
+20000004 B _S_bss
+20000000 D _S_DATA
+20000000 D Al_Pval
+20000004 B Al_Signal
+20001008 B Alarm_state
+2000100c B Alarm_state_id
+080002d8 W Bus_fault_Handler
+080002d8 T Default_Handler
+080000fc T Delay
+08000120 T getPressureVal
+08000188 T GPIO_INITIALIZATION
+080002d8 W H_fault_Handler
+08000238 T main
+080002d8 W MM_fault_Handler
+080002d8 W NMI_Handler
+0800001c T Pres_val
+20001010 B PS_Pval
+20001014 B PS_state
+2000100d B PS_state_id
+080002e4 T Reset_Handler
+08000138 T Set_Alarm_actuator
+08000208 T setup
+20001008 B SP_top
+08000064 T ST_High_Pressure
+080000b0 T ST_Norm_Pressure
+0800025c T ST_PS_reading
+080002a4 T ST_PS_waiting
+080002d8 W Usage_fault_Handler
+08000000 T vectors
