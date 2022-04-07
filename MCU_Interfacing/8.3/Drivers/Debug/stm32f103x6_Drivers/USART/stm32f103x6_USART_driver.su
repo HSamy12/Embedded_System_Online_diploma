@@ -1,0 +1,9 @@
+stm32f103x6_USART_driver.c:34:6:MCAL_USART_Init	24	static
+stm32f103x6_USART_driver.c:107:6:MCAL_USART_Deinit	16	static
+stm32f103x6_USART_driver.c:137:6:MCAL_USART_SendData	32	static
+stm32f103x6_USART_driver.c:164:6:MCAL_USART_waitTC	16	static
+stm32f103x6_USART_driver.c:183:6:MCAL_USART_ReceiveData	32	static
+stm32f103x6_USART_driver.c:220:6:MCAL_USART_SetPins	24	static
+stm32f103x6_USART_driver.c:307:6:USART1_IRQHandler	8	static
+stm32f103x6_USART_driver.c:314:6:USART2_IRQHandler	8	static
+stm32f103x6_USART_driver.c:319:6:USART3_IRQHandler	8	static
