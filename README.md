@@ -16,12 +16,12 @@
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/75/?title=In_Progress&color=ff00ff)
+### Second Term ![image](https://progress-bar.dev/95/?title=In_Progress&color=ff00ff)
 - Unit 6:  Micro-controller Arch ![image](https://progress-bar.dev/100/)
 - Unit 7:  MCU Essential Peripherals ![image](https://progress-bar.dev/100/)
-- Unit 8:  MCU Interface ![image](https://progress-bar.dev/60/)
-- Unit 9:  MCU Timers/ADC ![image](https://progress-bar.dev/0/)
-- Unit 10: SW Engineering ![image](https://progress-bar.dev/0/)
+- Unit 8:  MCU Interface ![image](https://progress-bar.dev/100/)
+- Unit 9:  MCU Timers/ADC ![image](https://progress-bar.dev/100/)
+- Unit 10: SW Engineering ![image](https://progress-bar.dev/20/)
 ---
 
 ### Third Term ![image](https://progress-bar.dev/0/?title=Waiting&color=ff0000)
