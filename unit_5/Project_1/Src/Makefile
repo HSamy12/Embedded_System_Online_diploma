@@ -1,7 +1,7 @@
 #@copyright: Hassan Samy
 CC=arm-none-eabi-
 CFLAGS=-mcpu=cortex-m3 -mthumb -gdwarf-2
-INCS= -I ./driver
+INCS= -I ./Inc
 LIBS=
 SRC=$(wildcard *.c)
 OBJ=$(SRC:.c=.o)
